@@ -2,7 +2,6 @@
 function AddTransaction(){
     var item = document.getElementById("text").value;
     var money = document.getElementById("amount").value;
-
     var values = [];
     var value = {
         name:item,
